@@ -1,0 +1,16 @@
+N,Variables,Constraints,Status,SolutionsFound,BuildTimeSeconds,SolverTimeSeconds,TotalTimeSeconds
+4,4,3,Feasible,1,0.000862,0.04181,0.042673
+8,8,3,Feasible,1,0.000787,0.02452,0.025311
+16,16,3,Feasible,1,0.001805,0.021511,0.023317
+32,32,3,Feasible,1,0.001133,0.027862,0.028996
+64,64,3,Feasible,1,0.001457,0.027564,0.029024
+100,100,3,Feasible,1,0.002164,0.035115,0.03728
+128,128,3,Feasible,1,0.002141,0.039109,0.041252
+256,256,3,"ERROR: Solver error: Problem size limit exceeded.
+CP Optimizer Community Edition solves problems with search spaces up to 2^1000.
+Unrestricted version options (including academia) at https://ibm.biz/error1016
+",0,0.005633,0.039833,0.045467
+512,512,3,"ERROR: Solver error: Problem size limit exceeded.
+CP Optimizer Community Edition solves problems with search spaces up to 2^1000.
+Unrestricted version options (including academia) at https://ibm.biz/error1016
+",0,0.007807,0.03777,0.045578

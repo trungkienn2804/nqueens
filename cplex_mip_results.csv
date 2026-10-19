@@ -1,0 +1,10 @@
+N,Variables,Constraints,Status,SolutionsFound,BuildTimeSeconds,SolverTimeSeconds,TotalTimeSeconds
+4,16,18,integer optimal solution,1,0.009856,0.034383,0.063166
+8,64,42,integer optimal solution,1,0.000578,0.003426,0.005066
+16,256,90,integer optimal solution,1,0.00197,0.005964,0.009178
+32,1024,186,ERROR: CPLEX Error  1016: Community Edition. Problem size limits exceeded. Purchase at http://ibm.biz/error1016.,0,0.00839,0.352724,0.362492
+64,4096,378,ERROR: CPLEX Error  1016: Community Edition. Problem size limits exceeded. Purchase at http://ibm.biz/error1016.,0,0.053498,0.028772,0.085647
+100,10000,594,ERROR: CPLEX Error  1016: Community Edition. Problem size limits exceeded. Purchase at http://ibm.biz/error1016.,0,0.273808,0.040819,0.318159
+128,16384,762,ERROR: CPLEX Error  1016: Community Edition. Problem size limits exceeded. Purchase at http://ibm.biz/error1016.,0,0.434768,0.030724,0.475944
+256,65536,1530,ERROR: CPLEX Error  1016: Community Edition. Problem size limits exceeded. Purchase at http://ibm.biz/error1016.,0,2.736981,0.024489,2.781167
+512,262144,3066,ERROR: CPLEX Error  1016: Community Edition. Problem size limits exceeded. Purchase at http://ibm.biz/error1016.,0,24.72129,0.025461,24.807876
